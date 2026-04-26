@@ -17,5 +17,5 @@ function isPalindrome(s) {
     }
 }
 
-console.log(isPalindrome("Racecar"));  // true
-console.log(isPalindrome("hello"));    // false
+console.log(isPalindrome("Racecar")); 
+console.log(isPalindrome("hello"));    
